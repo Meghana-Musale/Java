@@ -1,2 +1,2 @@
 # Java
-This is My second Repository
+This is my second Repository
